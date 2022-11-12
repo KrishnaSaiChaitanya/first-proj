@@ -49,7 +49,6 @@ function App() {
 <div >
 <Carousel />
 <br/><br/><br/>
-<Cariousal/>
 </div>
 <br/><br/>
 <div>
